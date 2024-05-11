@@ -1,5 +1,11 @@
 ## Front End (using vscode)
 
+### Code location
+```
+- cypress
+- e2e
+```
+
 ### Setup
 ```
   cd Kiosk_FrontEnd
