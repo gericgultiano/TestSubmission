@@ -3,7 +3,7 @@ Submission of all testings for Canteen Kiosk System
 
 # How to run
 
-# Setup
+ Setup
 cd Kiosk_FrontEnd
 npm install primevue
 
