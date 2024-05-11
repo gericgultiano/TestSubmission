@@ -14,9 +14,12 @@
 ```
 
 ### Setup Cypress
+```
 cd Kiosk_FrontEnd
 npm install cypress
-
+```
 ### To run
+```
 cd Kiosk_FrontEnd
 npx cypress open
+```
